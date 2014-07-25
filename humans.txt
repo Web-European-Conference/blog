@@ -1,0 +1,22 @@
+---
+---
+
+/* TEAM */
+
+Tech Lead: Ugo Lattanzi
+Contact: imperugo [at] gmail.com
+Twitter: @imperugo
+From: Milan, Italy
+
+Tech Lead: Simone Chiaretta
+Contact: simone [at] piyosailing.com
+Twitter: @simonech
+From: Bruxelles, Belgium
+
+
+/* SITE */
+
+Last update: {{ site.time | date: '%F' }}
+Language: English
+Doctype: HTML5
+IDE: Sublime Text, Github Pages, Jekyll, Ruby
