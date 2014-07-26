@@ -1,35 +1,23 @@
-{% if post.url %}
+{% if page.id %}
+	{% assign d = page.date | date: "%-d" %}
+	{% assign m = page.date | date: "%B" %}
+	{% assign y = page.date | date: "%Y" %}
+{% else %}
 	{% assign d = post.date | date: "%-d" %}
 	{% assign m = post.date | date: "%B" %}
+	{% assign y = post.date | date: "%Y" %}
+{% endif %}
 
+<li class="date">
+	<strong>on</strong>
+	<span class="month">
 	{% case m %}
 		{% when 'April' or 'May' or 'June' or 'July' %}{{ m }}
 		{% when 'September' %}Sept.
 		{% else %}{{ post.date | date: "%b" }}.
 		{% endcase %}
-	{% case d %}
-		{% when '1' or '21' or '31' %}{{ d }}st
-		{% when '2' or '22' %}{{ d }}nd
-		{% when '3' or '23' %}{{ d }}rd
-		{% else %}{{ d }}th
-		{% endcase %},
-	{{ post.date | date: "%Y" }}
+	</span>
+	<span class="day">{{ d }}<span>
+	<span class="year">{{ post.date | date: "%Y" }}</span>
+</li>
 
-{% else %}
-	{% assign d = page.date | date: "%-d" %}
-	{% assign m = page.date | date: "%B" %}
-
-	{% case m %}
-		{% when 'April' or 'May' or 'June' or 'July' %}{{ m }}
-		{% when 'September' %}Sept.
-		{% else %}{{ page.date | date: "%b" }}.
-		{% endcase %}
-	{% case d %}
-		{% when '1' or '21' or '31' %}{{ d }}st
-		{% when '2' or '22' %}{{ d }}nd
-		{% when '3' or '23' %}{{ d }}rd
-		{% else %}{{ d }}th
-		{% endcase %},
-	{{ page.date | date: "%Y" }}
-
-{% endif %}

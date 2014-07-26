@@ -1,0 +1,44 @@
+<div class="post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+    <div class="post-info">
+        <ul>
+            <li class="avatar">
+                <h2><i class="icon-user"></i></h2>
+            </li>
+            {% include post/author.html %}
+            {% include post/date.html %}
+            {% include post/comments_link.html %}
+        </ul>
+    </div>
+    <!--END POST-DATE-->
+
+    <div class="post-content">
+
+        {% if post.imagePath %}
+            <div class="post-media">
+                <a href="{{ post.url }}">
+                    <img src="{{ post.imagePath }}" alt="" />
+                </a>
+            </div>
+        {% endif %}
+        <!--END POST-MEDIA-->
+
+        <div class="post-title">
+            <h2 class="title">
+                <a href="{{ post.url }}">{{ post.title }}</a>
+            </h2>
+        </div>
+        <!--END POST-TITLE-->
+
+        {% include post/meta.html %}
+        <!--END POST-META-->
+
+        <div class="post-entry">
+            {{ content | excerpt }}
+        </div>
+        <!--END POST-ENTRY-->
+
+    </div>
+    <!--END POST-CONTENT-->
+
+</div>
+<!--END POST-->

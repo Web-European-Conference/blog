@@ -1,0 +1,20 @@
+{% if page.id %}
+	{% assign author = page.author %}
+	{% assign author_link = page.author_link %}
+{% else %}
+	{% assign author = post.author %}
+	{% assign author_link = post.author_link %}
+{% endif %}
+
+<li class="author">
+	<strong>by</strong> 
+	{%  if author %}
+		{%  if author_link %}
+			<a href="{{ author_link }}" target="_blank">{{ author }}</a>
+		{%  else %}
+			{{ author }} 
+		{%  endif %}
+    {%  else %}
+    	Staff 
+    {%  endif %}
+</li>

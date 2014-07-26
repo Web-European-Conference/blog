@@ -18,6 +18,12 @@ disqus_show_comment_count: true
 google_analytics_tracking_id: UA-30926898-2
 google_analytics_domain: webnextconf.eu
 
+#Socials
+twitter_name: webnextconf
+facebook_name: WebnextConf
+google_plus_name: +UgoLattanzi
+github_name: Web-European-Conference
+
 #
 # Jekyll Settings
 #

@@ -1,6 +1,6 @@
-# tostring.it
+# Web European Conference Blog
 
-This is my blog build using [Jekyll](http://jekyllrb.com/).
+This blog is built using [Jekyll](http://jekyllrb.com/).
 
 ## Testing
 
@@ -38,3 +38,27 @@ $ rake page name="pages/about"
 this will create the file: ./pages/about/index.html
 
 Both pages and posts will be created with the right formatted filename and YAML Front Matter
+
+## Jekyll post headers
+
+There are several variables you can specify in the header of the post
+
+```
+---
+layout: post
+date: 2014-07-28
+title: "Announcing second Web European Conference"
+description: "Announcing the 2nd Web European Conference, next Spring, in Italy"
+imagePath: /assets/2014/07/first_post_poster_image.jpg
+comments: true
+categories:
+- News
+tags:
+- conference
+- sponsor
+- c4p
+- c4v
+---
+```
+
+- imagePath is optional. In case you specify it a poster image will showed in top of the post and the same image will used for the [Twitter Card](https://dev.twitter.com/docs/cards) and [Facebook OpenGraph](http://ogp.me/)

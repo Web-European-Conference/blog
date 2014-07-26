@@ -30,13 +30,8 @@
 {% assign max_count = 5 %}
 {% assign count = 1 %}
 
-<div class="container related">
-  <strong>
-    <h2>
-      Related posts
-    </h2>
-  </strong>
-  <ul>
+<h3 class="title">Related posts</h3>
+  <ul class="bra_recent_entries">
     {% for post in site.posts %}
       {% assign index_post = forloop.index %}
       {% assign post_categories = post.categories | sort %}
@@ -65,6 +60,5 @@
          {% endif %}
     {% endfor %}
   </ul>
-</div> <!-- .container -->
 
 {% endif %}

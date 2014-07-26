@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="initial-scale=1, maximum-scale=1" />
+<meta name="viewport" content="width=device-width" />
+<title>{% if page.title %} {{ page.title }} | {% endif %}{{ site.description }}</title>
+<meta name="author" content="{{ site.author }}">
+{% capture description %}
+	{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}
+{% endcapture %}
+<meta name="description" content="{{ description }}">
+{% if page.tags %}
+	<meta name="keywords" content="{{ page.tags | array_to_sentence_string }}">
+{% endif %}
+
+<link rel="stylesheet" type="text/css" href="/css/style.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/blog.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/pygments.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/responsive.css" media="screen" />
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700italic,700,800,800italic,300italic,300' rel='stylesheet' type='text/css'>
+
+<script type="text/javascript" src="/javascript/jquery-1.8.3.js"></script>
+<script type="text/javascript" src="/javascript/custom.js"></script>
+<script type="text/javascript" src="/javascript/header.js"></script>
+<script type="text/javascript" src="/javascript/bra_twitter_plugin.js"></script>
+
+{% include social_headers.html %}
+{% include google_analytics.html %}
+</head>
