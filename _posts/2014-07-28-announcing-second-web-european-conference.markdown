@@ -42,4 +42,7 @@ Finally, if you cannot give a speech but still want to be part of this event, we
 ### Subscribe to get more info
 
 We don’t have much more to share at the moment apart from the timeframe, Spring 2015, possibly April, and the location, possibly Milano. But if you want to be the first to know about the conference, and to have the possibility to pre-register before the official registration opens, go to our website [http://webnextconf.eu/](http://webnextconf.eu/ "http://webnextconf.eu/") and subscribe to the mailing list.
+
+>This header image, is a derivative of [Attempting to get some more work done on my dissertation](https://www.flickr.com/photos/a1ex/3316800986/in/photolist-646tnU-8BoJa-8de84K-6ejaSX-51zCMD-7inh7z-oQ5ih-8zfy43-8ehNMh-8utie-msC5U-cDMvJu-e8Epo6-d8GpRN-eveSN-4vaetF-7456uA-dCkr4-5FMTuT-4aTTPK-bCRd8S-5TjGrG-bHJTLr-8Bs3i-kTSoA8-NJ9Gp-cpbJbq-bF96Ax-d9Wqbh-6BjnWy-bhrMFH-bZU5KC-9dyrEp-24ZB6o-irZQKj-5722xf-dN6pLB-6pBmoP-6rRe1Y-nmzSMF-5dz8Fo-dS4kUY-iGHZU-wxS9e-aoUWG-kwa3Rz-nAReXU-6beoCQ-3CEUfQ-iqnepE) by [Alex](https://www.flickr.com/photos/a1ex/), used under [CC](https://creativecommons.org/licenses/by-nc-sa/2.0/) BY. "Attempting to get some more work done on my dissertation" is licensed under [CC](https://creativecommons.org/licenses/by-nc-sa/2.0/) BY by Web European Conference.
+
  

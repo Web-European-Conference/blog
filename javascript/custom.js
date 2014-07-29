@@ -1,6 +1,6 @@
 jQuery(document).ready(function($) { 
 var color = "orange"; // tealgreen, green, red, pink, purple, orange, navyblue, magenta, cream, blue, yellow
-var css_url = "css/colors/color-" + color + ".css";
+var css_url = "/css/colors/color-" + color + ".css";
 $('head').append('<link rel="stylesheet" href="' + css_url + '" type="text/css" />');
 var boxed = false; // true, false
 if (boxed) {$('head').append('<link rel="stylesheet" href="css/style-boxed.css" type="text/css" />')};
