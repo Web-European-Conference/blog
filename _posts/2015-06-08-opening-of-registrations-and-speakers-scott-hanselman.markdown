@@ -3,7 +3,7 @@ layout: post
 date: 2015-06-08
 title: "Scott Hanselman and Dino Esposito speaking at 2nd Web European Conference in Milano"
 description: "Announcing the opening date of registrations and some of the main speakers, Scott Hanselman and Dino Esposito"
-imagePath: /assets/2015/06/new-website-preview.jpg
+imagePath: /assets/2015/07/scott-speaker.jpg
 comments: true
 categories:
 - News
@@ -22,10 +22,8 @@ If you attended the previous edition, you'll be able to pre-register before the 
 
 ### Speakers
 
-The call for presenters will stay open till the end of June, but today we are very happy to announce that we've secured two amazing speakers: **Scott Hanselman** and **Dino Esposito**.
-
-Thanks to the hospitaly of the [University of Milano-Bicocca](http://www.unimib.it/go/102/Home/English) the conference will be free to attend, but we'll need your help to make it the best conference ever. 
+Today we are very happy to announce that we've secured two amazing speakers: **Scott Hanselman** and **Dino Esposito** will be speaking at the Web European Conference.
 
 ### Call for presenters
 
-To make an awesome conference we need awesome speakers, and today we are also launching the call for presenters: if you want to propose a talk that matches the ideas of our Manifest, you can already submit your proposal. Go on our [Github account](https://github.com/Web-European-Conference), fork the [c4p repository](https://github.com/Web-European-Conference/c4p), add your proposal and submit a pull request.
+So far we received almost 50 proposals from 20+ different speakers, but to get even more speeches to choose from, we've decided to keep the call for presenters open till the end of June: if you haven't done it yet and you want have the chance to be in the "speakers room" with Scott, go on our [Github account](https://github.com/Web-European-Conference), fork the [c4p repository](https://github.com/Web-European-Conference/c4p), add your proposal and submit a pull request.
