@@ -3,7 +3,7 @@ layout: post
 date: 2015-06-08
 title: "Scott Hanselman and Dino Esposito speaking at 2nd Web European Conference in Milano"
 description: "Announcing the opening date of registrations and some of the main speakers, Scott Hanselman and Dino Esposito"
-imagePath: /assets/2015/07/scott-speaker.jpg
+imagePath: /assets/2015/06/scott-speaker.jpg
 comments: true
 categories:
 - News
