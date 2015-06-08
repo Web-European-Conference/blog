@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2015-02-09
-title: "Save the data: 26 September 2015, 2nd Web European Conference in Milano"
+title: "Save the date: 26 September 2015, 2nd Web European Conference in Milano"
 description: "Announcing the date of the 2nd Web European Conference: Milano (Italy), 26 September 2015"
 imagePath: /assets/2015/02/new-website-preview.jpg
 comments: true
