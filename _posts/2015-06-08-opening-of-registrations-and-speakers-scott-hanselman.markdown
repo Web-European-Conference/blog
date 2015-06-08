@@ -22,7 +22,7 @@ If you attended the previous edition, you'll be able to pre-register before the 
 
 ### Speakers
 
-Today we are very happy to announce that we've secured two amazing speakers: **Scott Hanselman** and **Dino Esposito** will be speaking at the Web European Conference.
+Today we are very happy to announce that we've secured two amazing speakers: [**Scott Hanselman**](http://www.hanselman.com/) and [**Dino Esposito**](https://twitter.com/despos) will be speaking at the Web European Conference.
 
 ### Call for presenters
 
