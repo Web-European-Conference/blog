@@ -21,6 +21,8 @@ Topics will range from AngularJs to ReactJS, from TypeScript to Reactive Extensi
 
 You can have a look at the [full agenda](http://webnextconf.eu/#schedule) on our website.
 
+If you haven't registered, there are less than 200 places available, [hurry up and register](webnextconf.eventbrite.com)!
+
 ### Hotel discounts and logistics
 
 I guess many of you are already planning their trip to Milano, and for this we secured some discounts in hotels near the conference venue.
