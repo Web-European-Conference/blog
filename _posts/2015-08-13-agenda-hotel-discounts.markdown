@@ -21,7 +21,7 @@ Topics will range from AngularJs to ReactJS, from TypeScript to Reactive Extensi
 
 You can have a look at the [full agenda](http://webnextconf.eu/#schedule) on our website.
 
-If you haven't registered, there are less than 200 places available, [hurry up and register](webnextconf.eventbrite.com)!
+If you haven't registered, there are less than 200 places available, [hurry up and register](http://webnextconf.eventbrite.com)!
 
 ### Hotel discounts and logistics
 
