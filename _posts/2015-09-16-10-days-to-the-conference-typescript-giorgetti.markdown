@@ -1,8 +1,8 @@
 ---
 layout: post
 date: 2015-09-16 2:30PM
-title: "10 Days to the kick off: featured session of the day - TypeScript: the Javascript's developer best friend! by Alessandro Giorgetti"
-description: "Featured session of the day is TypeScript: the Javascript's developer best friend! by Alessandro Giorgetti"
+title: "10 Days to the kick off: featured session of the day - TypeScript: the JavaScript developer best friend! by Alessandro Giorgetti"
+description: "Featured session of the day is TypeScript: the JavaScript developer best friend! by Alessandro Giorgetti"
 imagePath: /assets/2015/09/giorgetti.jpg
 comments: true
 categories:
@@ -12,7 +12,7 @@ tags:
 - agenda
 ---
 
-We are continuing our tour of the sessions: with 10 days the Web European Conference, the featured session is **TypeScript: the Javascript's developer best friend!** and we asked [Alessandro Giorgetti](http://www.primordialcode.com/) to tell us more about his session and about himself.
+We are continuing our tour of the sessions: with 10 days the Web European Conference, the featured session is **TypeScript: the JavaScript developer best friend!** and we asked [Alessandro Giorgetti](http://www.primordialcode.com/) to tell us more about his session and about himself.
 
 ### Q: Tell us a bit more about your session
 **A**: Let's pin with some strong points on the language:
