@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-09-XX 3:00PM
-title: "XX Days to the kick off: featured session of the day - Optimizing web apps using AppInsights, memory and performance profiling by Maarten Balliauw"
+date: 2015-09-16 6:00PM
+title: "10 Days to the kick off: featured session of the day - Optimizing web apps using AppInsights, memory and performance profiling by Maarten Balliauw"
 description: "Featured session of the day is Optimizing web apps using AppInsights, memory and performance profiling by Maarten Balliauw"
 imagePath: /assets/2015/09/marteen.jpg
 comments: true
@@ -12,7 +12,7 @@ tags:
 - agenda
 ---
 
-We are continuing our tour of the sessions: with 10 days the Web European Conference, the featured session is **Optimizing web apps using AppInsights, memory and performance profiling** and we asked [Maarten Balliauw](http://blog.maartenballiauw.be) to tell us more about his session and about himself.
+We are continuing our tour of the sessions: after a session on [ASP.NET 5](http://blog.webnextconf.eu/2015/09/15/11-day-to-the-conference/) and one on [TypeScript](http://blog.webnextconf.eu/2015/09/16/10-days-to-the-conference-typescript-giorgetti/) we move to the Cloud with **Optimizing web apps using AppInsights, memory and performance profiling** and we asked [Maarten Balliauw](http://blog.maartenballiauw.be) to tell us more about his session and about himself.
 
 ### Q: Tell us a bit more about your session
 **A**: The Web European Conference organizers have dubbed my session "Optimizing web apps using AppInsights, memory and performance profiling", but I kind of like the code name I use for it: *"Sherlock Homepage - A detective story about running large web services"*. Reason for that is that this session is a real detective story about our team working on several of the issues we in the past months building out [NuGet.org](http://nuget.org).
