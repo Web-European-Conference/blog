@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2015-09-XX 3:00PM
+date: 2015-09-17 11:15AM
 title: "XX Days to the kick off: featured session of the day - Create a single page web application with AngularJS by Antonio Di Motta"
 description: "Featured session of the day is Create a single page web application with AngularJS by Antonio Di Motta"
 imagePath: /assets/2015/09/dimotta.jpg
@@ -12,7 +12,7 @@ tags:
 - agenda
 ---
 
-We are continuing our tour of the sessions: with 10 days the Web European Conference, the featured session is **Create a single page web application with AngularJS** and we asked [Antonio Di Motta](http://www.dimotta.net/) to tell us more about his session and about himself.
+With 9 days the beginning of the Web European Conference, this morning we feature a session from track 4, **Create a single page web application with AngularJS** and we asked [Antonio Di Motta](http://www.dimotta.net/) to tell us more about his session and about himself.
 
 ### Q: Tell us a bit more about your session
 **A**: My session will have AngularJS as main actor. We will go to understand the main characteristics of this web framework that makes simple building a Single Page Application but also how to extend the built-in directives with your own custom. To do that, we will see many examples with different levels of difficulty. There will be space also to understand how to design a complex SPA project by reference to an open source project I'm working on.
