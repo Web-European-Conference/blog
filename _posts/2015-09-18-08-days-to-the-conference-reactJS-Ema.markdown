@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-09-XX 3:00PM
-title: "XX Days to the kick off: featured session of the day - ReactJS in a real world application by Emanuele DelBono"
+date: 2015-09-18 9:00AM
+title: "8 Days to the kick off: featured session of the day - ReactJS in a real world application by Emanuele DelBono"
 description: "Featured session of the day is ReactJS in a real world application by Emanuele DelBono"
 imagePath: /assets/2015/09/ema.jpg
 comments: true
@@ -12,7 +12,7 @@ tags:
 - agenda
 ---
 
-We are continuing our tour of the sessions: with 10 days the Web European Conference, the featured session is **ReactJS in a real world application** and we asked [Emanuele DelBono](http://twitter.com/emadb) to tell us more about his session and about himself.
+Yesterday we've featured a talk about [AngularJS](http://blog.webnextconf.eu/2015/09/17/9-days-to-the-conference-spa-angularjs-dimotta/) and today, with 8 days to kickoff, the featured session is **ReactJS in a real world application** and we asked [Emanuele DelBono](http://twitter.com/emadb) to tell us more about his session and about himself.
 
 ### Q: Tell us a bit more about your session
 **A**: I'm using [react](https://facebook.github.io/react/) for almost a year now and after an initial skepticism I had fallen in love with it. And it's not only about react itself but all the environment and tools and communities around it.
