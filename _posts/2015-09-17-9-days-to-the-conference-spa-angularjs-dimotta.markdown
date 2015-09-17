@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2015-09-17 11:15AM
-title: "XX Days to the kick off: featured session of the day - Create a single page web application with AngularJS by Antonio Di Motta"
+title: "9 Days to the kick off: featured session of the day - Create a single page web application with AngularJS by Antonio Di Motta"
 description: "Featured session of the day is Create a single page web application with AngularJS by Antonio Di Motta"
 imagePath: /assets/2015/09/dimotta.jpg
 comments: true
