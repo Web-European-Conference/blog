@@ -56,3 +56,5 @@ TypeScript helps me to be a better JavaScript developer, and it saves me time an
 
 ### Q: Tell us a bit more about yourself
 **A**: I'm a 'software craftsman' specialized in enterprise applications for the healthcare system, with focus on service oriented applications. I have experiences in different programming languages like: C#, C++, Javascript, TypeScript... and several technologies and frameworks like .NET, ASP.NET MVC, NodeJS, HTML5, AngularJS, Nhibernate, NEventStore. I'm one of the founders and an active speaker of the .Net user group DotNetMarche. I'm also a founder and the Community Group DevMarche. Away from my normal job I've discovered (too late maybe) a passion for fitness and BBQ cooking, two things that play well together!
+
+If you want to attend this session but haven't registered to the [Web European Conference](http://webnextconf.eu/) yet, you still have some time: [go register](http://webnextconf.eventbrite.com/) before all 900 tickets are gone.

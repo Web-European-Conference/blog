@@ -30,3 +30,5 @@ Overall this session aims to educate about current security threats. We're livin
 At the moment both my colleague Jonathan LeBlanc and I are authoring a book around data security and identity for O'Reilly and next to this project, I have been responsible for several additions to the _Mobile Developers Guide to the Galaxy_.
 
 You can find some of my thought-pieces around Developer Evangelism [here](https://www.braintreepayments.com/blog/author/tim-messerschmidt/) and a more general purpose blog that covers multiple topics [here](http://timmesserschmidt.com/).
+
+If you want to attend this session but haven't registered to the [Web European Conference](http://webnextconf.eu/) yet, you still have some time: [go register](http://webnextconf.eventbrite.com/) before all 900 tickets are gone.

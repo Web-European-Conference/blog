@@ -24,3 +24,6 @@ I will give a brief introduction of the basic concepts on which react is based a
 
 ### Q: Tell us a bit more about yourself
 **A**: I'm a software developer, I work in [CodicePlastico](http://codiceplastico.com) a small software house formed by seven superhero-developers. I develop mostly web applications in ASP.NET and Node.js. I like crafting application using basic tools: a terminal, some scripts and an editor. I love to learn new tools, languages and practices. During the last year I've became a fan of frontend developer, previously with Angular and now with React.
+
+## Register to the Web European Conference
+If you want to attend this session but haven't registered to the [Web European Conference](http://webnextconf.eu/) yet, you still have some time: [go register](http://webnextconf.eventbrite.com/) before all 900 tickets are gone.

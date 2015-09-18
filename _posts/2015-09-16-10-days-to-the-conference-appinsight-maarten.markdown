@@ -24,3 +24,6 @@ Vague, I know, but I don't want to ruin the story - a story which you will only 
 
 ### Q: Tell us a bit more about yourself
 **A**: I am a web and cloud guy, two technologies I like to speak and [blog](http://blog.maartenballiauw.be) about. I work at Microsoft, building out the server-side of NuGet since a few months. Before, I've been a Microsoft Azure MVP and ASP Insider. I also co-founded [MyGet](http://www.myget.org), hosting private NuGet, npm and Bower feeds for teams.
+
+## Register to the Web European Conference
+If you want to attend this session but haven't registered to the [Web European Conference](http://webnextconf.eu/) yet, you still have some time: [go register](http://webnextconf.eventbrite.com/) before all 900 tickets are gone.

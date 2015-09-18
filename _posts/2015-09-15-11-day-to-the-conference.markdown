@@ -30,3 +30,6 @@ This session assumes that you have a prior knowledge on ASP.NET 5, and know how 
 
 ### Q: Tell us a bit more about yourself
 **A**: I am a web guy, Microsoft MVP and software developer specialized mainly on .NET Web technologies. I worked in the tourism industry to build tourism software services and products for long time and now, I'm working at Redgate Software as a Software Engineer helping people do database delivery in a joyful way. I am also very involved in the community and I like to share my knowledge with others through [my blog](http://www.tugberkugurlu.com/), webcasts, authoring books, giving talks on various topics and so on.
+
+## Register to the Web European Conference
+If you want to attend this session but haven't registered to the [Web European Conference](http://webnextconf.eu/) yet, you still have some time: [go register](http://webnextconf.eventbrite.com/) before all 900 tickets are gone.

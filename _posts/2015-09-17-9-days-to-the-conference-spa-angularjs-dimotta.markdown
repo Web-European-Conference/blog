@@ -22,3 +22,5 @@ This session requires a good knowledge of html and javascript, as well as concep
 
 ### Q: Tell us a bit more about yourself
 **A**: I'm working at Mate Consulting as IT Project Engineer. In my career i have had the opportunity to work on interesting projects that have involved the real life. It’s amazing when you see your software working into an industrial or transportation plant like a metro, every decision about the design and implementation are very important and have a deep impact to the final results. I like sharing my knowledge with others and the open source its a great way to accomplish it, so i have an account on [Github](http://Github.com/antdimot) which is the place where I'm publishing some personal projects.
+
+If you want to attend this session but haven't registered to the [Web European Conference](http://webnextconf.eu/) yet, you still have some time: [go register](http://webnextconf.eventbrite.com/) before all 900 tickets are gone.
