@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-09-XX 3:00PM
-title: "XX Days to the kick off: featured session of the day - You Can Have it Both Ways: Using Web Components in a React UI by Massimiliano Mantione"
+date: 2015-09-19 10:00AM
+title: "7 Days to the kick off: featured session of the day - You Can Have it Both Ways: Using Web Components in a React UI by Massimiliano Mantione"
 description: "Featured session of the day is You Can Have it Both Ways: Using Web Components in a React UI by Massimiliano Mantione"
 imagePath: /assets/2015/09/mantione.jpg
 comments: true
@@ -12,7 +12,8 @@ tags:
 - agenda
 ---
 
-We are continuing our tour of the sessions: with 10 days the Web European Conference, the featured session is **You Can Have it Both Ways: Using Web Components in a React UI>** and we asked [Massimiliano Mantione](https://twitter.com/M_a_s_s_i) to tell us more about his session and about himself.
+One week from today the Web European Conference starts and today's featured session is **You Can Have it Both Ways: Using Web Components in a React UI>** and we asked [Massimiliano Mantione](https://twitter.com/M_a_s_s_i) to tell us more about his session and about himself.
+This session is immediately after the keynote, in the same room. Another parallel session is [Going Further with ASP.NET 5 by Tugberk Ugurlu](http://blog.webnextconf.eu/2015/09/15/11-day-to-the-conference/). So, are you more interested in the future of client-side development or the future of ASP.NET development?
 
 ### Q: Tell us a bit more about your session
 **A**: I decided to prepare this talk because I had a question that needed an answer: is it possible to use Web Components in a React-based web application?
