@@ -20,3 +20,6 @@ We are continuing our tour of the sessions: with 10 days the Web European Confer
 
 ### Q: Tell us a bit more about yourself
 **A**:
+
+## Register to the Web European Conference
+If you want to attend this session but haven't registered to the [Web European Conference](http://webnextconf.eu/) yet, you still have some time: [go register](http://webnextconf.eventbrite.com/) before all 900 tickets are gone.
