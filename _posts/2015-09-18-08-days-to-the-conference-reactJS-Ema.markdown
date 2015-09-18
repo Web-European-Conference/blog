@@ -10,6 +10,8 @@ categories:
 tags:
 - sessions
 - agenda
+redirect_from: 
+  - /2015/09/17/08-days-to-the-conference-reactJS-Ema/
 ---
 
 Yesterday we've featured a talk about [AngularJS](http://blog.webnextconf.eu/2015/09/17/9-days-to-the-conference-spa-angularjs-dimotta/) and today, with 8 days to kickoff, the featured session is **ReactJS in a real world application** and we asked [Emanuele DelBono](http://twitter.com/emadb) to tell us more about his session and about himself.
