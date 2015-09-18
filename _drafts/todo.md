@@ -1,29 +1,36 @@
- - 11 - Tugberk - ASP.NET (1)
- - 10 - Giorgetti - TypeScript/JS (5)
- - 10 - Maarten - Azure (2)
- -  9 - DiMotta - AngularJS/JS (4)
- -  9 - PayPal - Node.js
- -  8 - Ema - ReactJS (3)
+ - 2015/09/15 - 11 - Tugberk - ASP.NET (1)
+ - 2015/09/16 - 10 - Giorgetti - TypeScript/JS (5)
+ - 2015/09/16 - 10 - Maarten - Azure (2)
+ - 2015/09/17 - 9 - DiMotta - AngularJS/JS (4)
+ - 2015/09/17 - 9 - PayPal - Node.js
+ - 2015/09/18 - 8 - Ema - ReactJS (3)
+ - 2015/09/18 - 8 - Butland - ASP.NET (2)
+ - 2015/09/19 - 7 - Mantione - ReactJS (1)
+ - 2015/09/19 - 7 - Vito - Azure (3)
+ - 2015/09/20 - 6 - Dino - JS (2)
+ - 2015/09/20 - 6 -
+ - 2015/09/21 - 5 -
+ - 2015/09/21 - 5 -
+ - 2015/09/22 - 4 -
+ - 2015/09/22 - 4 -
+ - 2015/09/23 - 3 -
+ - 2015/09/23 - 3 -
+ - 2015/09/24 - 2 -
+ - 2015/09/24 - 2 -
+ - 2015/09/25 - 1 -
+ - 2015/09/25 - 1 -
 
-
-
-
-
- - Dino - JS (2)
- - Mantione - ReactJS (1)
- - Butland - ASP.NET (2)
- - Vito - Azure (3)
 
 
  - Scott - JS
- - DeSanctis - Azure (1)
- - Avanade - Azure (4)
+ - DeSanctis - Azure (1)*
+ - Avanade - Azure (4)*
  - Pipeline - Azure (5)
  - Kuba - JS (3)
- - Paganotti - JS (4)
- - Raf - OData/MS (3)
- - Chris - ASP.NET (4)
- - Rui - F# (5)
- - Ionic (1)
- - Kris - Gulp/JS (2)
+ - Paganotti - JS (4)*
+ - Raf - OData/MS (3)*
+ - Chris - ASP.NET (4)*
+ - Rui - F# (5)*
+ - Ionic (1)*
+ - Kris - Gulp/JS (2)*
  - Reply - JS (5)
