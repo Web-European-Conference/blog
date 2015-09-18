@@ -31,4 +31,5 @@ At the moment both my colleague Jonathan LeBlanc and I are authoring a book arou
 
 You can find some of my thought-pieces around Developer Evangelism [here](https://www.braintreepayments.com/blog/author/tim-messerschmidt/) and a more general purpose blog that covers multiple topics [here](http://timmesserschmidt.com/).
 
+## Register to the Web European Conference
 If you want to attend this session but haven't registered to the [Web European Conference](http://webnextconf.eu/) yet, you still have some time: [go register](http://webnextconf.eventbrite.com/) before all 900 tickets are gone.
