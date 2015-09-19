@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-09-16 3:00PM
-title: "10 Days to the kick off: featured session of the day - Capture, record, clip, embed and play, search: video from newbie to ninja by Vito Flavio Lorusso"
+date: 2015-09-19 4:00PM
+title: "7 Days to the kick off: featured session of the day - Capture, record, clip, embed and play, search: video from newbie to ninja by Vito Flavio Lorusso"
 description: "Featured session of the day is Capture, record, clip, embed and play, search: video from newbie to ninja by Vito Flavio Lorusso"
 imagePath: /assets/2015/09/vito.jpg
 comments: true
@@ -12,7 +12,9 @@ tags:
 - agenda
 ---
 
-We are continuing our tour of the sessions: with 10 days the Web European Conference, the featured session is **Capture, record, clip, embed and play, search: video from newbie to ninja** and we asked [Vito Flavio Lorusso](https://twitter.com/vflorusso) to tell us more about his session and about himself.
+Two days ago we featured [ReactJS in a real world application by Emanuele DelBono](http://blog.webnextconf.eu/2015/09/18/08-days-to-the-conference-reactJS-Ema/). Today with one week to go, we feature another session for the mid-afternoon: **Capture, record, clip, embed and play, search: video from newbie to ninja** and we asked [Vito Flavio Lorusso](https://twitter.com/vflorusso) to tell us more about his session and about himself.
+
+The choice is yours: JavaScript or video production and hosting with Azure?
 
 ### Q: Tell us a bit more about your session
 **A**: This session is about understanding how you can use and leverage building blocks in the Azure Cloud to add video production features to your solutions.
@@ -32,4 +34,6 @@ That’s how I hope I will get you interested in video and taking your first ste
 
 
 ### Q: Tell us a bit more about yourself
-**A**:
+**A**: I am a Senior Program Manager in Microsoft working on Cloud Technologies since 4 years. My current job is being a Tech Advisor and Cloud Architect for cloud workloads enablers and worldwide video projects on Microsoft Azure. I spoke at IBC on the video work-flow we used for last FIFA World Cup live streaming.
+
+Working and enjoying technology since I was a kid.
