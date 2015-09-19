@@ -8,7 +8,7 @@
  - 2015/09/19 - 7 - Mantione - ReactJS (1)
  - 2015/09/19 - 7 - Vito - Azure (3)
  - 2015/09/20 - 6 - Dino - JS (2)
- - 2015/09/20 - 6 -
+ - 2015/09/20 - 6 - Raf - OData/MS (3)
  - 2015/09/21 - 5 -
  - 2015/09/21 - 5 -
  - 2015/09/22 - 4 -
@@ -20,17 +20,19 @@
  - 2015/09/25 - 1 -
  - 2015/09/25 - 1 -
 
+Arrivate
+ - Kris - Gulp/JS (2)
 
-
- - Scott - JS
- - DeSanctis - Azure (1)*
- - Avanade - Azure (4)*
- - Pipeline - Azure (5)
+Arriveranno
+ - DeSanctis - Azure (1)
  - Kuba - JS (3)
+ - Rui - F# (5)
+ - Ionic (1)
+ - Avanade - Azure (4)
+
+No risposta
+ - Scott - JS
+ - Pipeline - Azure (5)
  - Paganotti - JS (4)*
- - Raf - OData/MS (3)*
  - Chris - ASP.NET (4)*
- - Rui - F# (5)*
- - Ionic (1)*
- - Kris - Gulp/JS (2)*
  - Reply - JS (5)
