@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-09-16 3:00PM
-title: "10 Days to the kick off: featured session of the day - Extending RWD with Lightweight Client-side Device Detection by Dino Esposito"
+date: 2015-09-20 10:00AM
+title: "6 Days to the kick off: featured session of the day - Extending RWD with Lightweight Client-side Device Detection by Dino Esposito"
 description: "Featured session of the day is Extending RWD with Lightweight Client-side Device Detection by Dino Esposito"
 imagePath: /assets/2015/09/dino.jpg
 comments: true
@@ -12,7 +12,9 @@ tags:
 - agenda
 ---
 
-We are continuing our tour of the sessions: with 10 days the Web European Conference, the featured session is **Extending RWD with Lightweight Client-side Device Detection** and we asked [Dino Esposito](http://www.twitter.com/despos) to tell us more about his session and about himself.
+Less than one week, and today we feature another session for just after lunch break: **Extending RWD with Lightweight Client-side Device Detection** and we asked [Dino Esposito](http://www.twitter.com/despos) to tell us more about his session and about himself.
+
+Which session will you attend? This one on device detection with JavaScript, one about [software architecture with ASP.NET MVC](http://blog.webnextconf.eu/2015/09/18/08-days-to-the-conference-MVC-butland/) or about [performance and memory profiling on Azure](http://blog.webnextconf.eu/2015/09/16/10-days-to-the-conference-appinsight-maarten/)?
 
 ### Q: Tell us a bit more about your session
 **A**: About a couple of years ago I asked a guru an opinion about device detection. He said you “Man, don’t need it. There are essentially two ways of doing mobile web development. One is building a bunch of pages that responsively work everywhere. The other is building two versions of the site, one of which is an m-site. The m-site is still responsive but designed for mobile devices and thus sending less content.”
@@ -35,3 +37,6 @@ Finally, the talk offers the perspective of a youngster—one of those customers
 
 ### Q: Tell us a bit more about yourself
 **A**: Author of many popular books that helped the professional growth of thousands of .NET developers, I've been speaking at events of any size for well over a decade. At present I'm a technical evangelist for JetBrains and member of the team that manages WURFL—the mobile backend tool used by Facebook.
+
+## Register to the Web European Conference
+If you want to attend this session but haven't registered to the [Web European Conference](http://webnextconf.eu/) yet, you still have some time: [go register](http://webnextconf.eventbrite.com/) before all 900 tickets are gone.
