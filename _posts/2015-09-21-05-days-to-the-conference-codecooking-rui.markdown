@@ -14,7 +14,7 @@ tags:
 
 We are entering the week of the conference, and today we are featuring a type of session which something you might have not seen in many other conferences: **Code Cooking** and we asked [Rui Carvalho](https://twitter.com/rhwy) to tell us more about his session and about himself.
 
-This session will be the last of the day, but it is partially interactive, so there will be less chances you fall asleep after the intense day. On the same time-slot there will also be a session on [http://blog.webnextconf.eu/2015/09/16/10-days-to-the-conference-typescript-giorgetti/](TypeScript by Alessandro Giorgetti).
+This session will be the last of the day, but it is partially interactive, so there will be less chances you fall asleep after the intense day. On the same time-slot there will also be a session on [TypeScript by Alessandro Giorgetti] (http://blog.webnextconf.eu/2015/09/16/10-days-to-the-conference-typescript-giorgetti/).
 
 ### Q: Tell us a bit more about your session
 **A**:The talk is about learning things in a different way.
