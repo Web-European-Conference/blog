@@ -13,34 +13,19 @@
  - 2015/09/21 - 5 - Paganotti - JS (4)
  - 2015/09/22 - 4 - Ionic (1)
  - 2015/09/22 - 4 - Reply - JS (5)
- - 2015/09/23 - 3 -
- - 2015/09/23 - 3 -
- - 2015/09/24 - 2 -
- - 2015/09/24 - 2 -
- - 2015/09/25 - 1 -
- - 2015/09/25 - 1 -
+ - 2015/09/23 - 3 - Chris - ASP.NET (4) ***
+ - 2015/09/23 - 3 - DeSanctis - Azure (1)
+ - 2015/09/24 - 2 - Kris - Gulp/JS (2)
+ - 2015/09/24 - 2 - Pipeline - Azure (5)
+ - 2015/09/25 - 1 - Kuba - JS (3)
+ - 2015/09/25 - 1 - Avanade - Azure (4) ***
 
 Arrivate
- - Kris - Gulp/JS (2)
- - Pipeline - Azure (5)
-
-
-
- - DeSanctis - Azure (1)
- - Kuba - JS (3)
 
 
 Arriveranno
- - Chris - ASP.NET (4)*
+ - Chris - ASP.NET (4)
  - Avanade - Azure (4)
 
 No risposta
  - Scott - JS
-
-Slot coperti
-
-1 - 3 post/1 schedulati
-2 - 3 post/1 schedulato
-3 - 3 post/1 schedulato
-4 - 2 post/2 mancanti
-5 - 3 post/1 schedulati
