@@ -30,7 +30,7 @@ github_name: Web-European-Conference
 markdown: redcarpet
 permalink: /:year/:month/:day/:title/
 paginate: 5
-paginate_path: "page/:num"
+paginate_path: "/page/:num"
 category_dir: categories
 
 gems:
