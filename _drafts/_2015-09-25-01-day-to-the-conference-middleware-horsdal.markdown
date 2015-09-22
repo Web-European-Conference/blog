@@ -12,7 +12,7 @@ tags:
 - agenda
 ---
 
-Before you head to the pre-conference aperitivo, one last session: **Why Middleware?** and we asked [Christian Horsdal](http://www.horsdal-consult.dk/) to tell us more about his session and about himself.
+Before you head to the pre-conference aperitivo, one last session: **Why Middleware?**. We asked [Christian Horsdal](http://www.horsdal-consult.dk/) to tell us more about his session and about himself.
 
 And we this post we concluded our overview of all sessions of the conference. After the coffee-break you can choose between:
 
@@ -27,3 +27,9 @@ And we this post we concluded our overview of all sessions of the conference. Af
 
 ### Q: Tell us a bit more about yourself
 **A**:
+
+
+------
+PostTitle(D-1 - Featured session is Why Middleware? by @chr_horsdal)
+Link(http://blog.webnextconf.eu/2015/09/25/01-day-to-the-conference-middleware-horsdal/)
+Scheduled(2015-09-25T15:00+02:00)
