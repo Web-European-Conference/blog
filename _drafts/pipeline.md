@@ -1,4 +1,0 @@
-1: Tell us a bit more about your session
-[Davide] In this session, and with the help of a colleague of mine, we’re going to talk a little bit of developing applications in Microsoft Azure that is the Microsoft cloud platform. Before showing some examples we’ll try to set the scene giving an overview of the various cloud models existing nowadays; so the session will be a mix of theory and practice with the aim of giving an overview of the most important concepts to consider
-2: Tell us a bit more about yourself
-[Davide] Pre-sale and Project manager in the cloud area with a specific focus on the Microsoft Office 365 and Microsoft Azure platforms. Through the adoption of Microsoft Azure I try to help customers to start and move to the cloud world with native or hybrid solutions, integrating on-premise and in-cloud resources.
