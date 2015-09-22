@@ -3,7 +3,7 @@ layout: post
 date: 2015-09-22 12:00PM
 title: "4 Days to the kick off: featured session of the day - Rapid Mobile Development with Ionic framework by Alessio Delmonti"
 description: "Featured session of the day is Rapid Mobile Development with Ionic framework by Alessio Delmonti"
-imagePath: /assets/2015/09/ionic.jpg
+imagePath: /assets/2015/09/alessio.jpg
 comments: true
 categories:
 - News
