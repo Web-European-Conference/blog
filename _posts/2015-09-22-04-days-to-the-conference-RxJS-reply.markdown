@@ -1,7 +1,23 @@
+---
+layout: post
+date: 2015-09-22 5:00PM
+title: "4 Days to the kick off: featured session of the day - Taming Asyncrony using RxJS by Angelo Simone Scotto"
+description: "Featured session of the day is Taming Asyncrony using RxJS by Angelo Simone Scotto"
+imagePath: /assets/2015/09/reply.jpg
+comments: true
+categories:
+- News
+tags:
+- sessions
+- agenda
+---
 
-* *Tell us a bit more about your session*
+Looking for some a different approach on Async with Javascript? Maybe **Taming Asyncrony using RxJS** by Angelo Simone Scotto could be the session for you.
 
-My session is about "Reactive Extensions" (Rx); speaking about Rx is really exciting because in our work it's rare to find something really new, but Rx, with its Observable pattern, somehow did it.
+If not, as last session of the day you could also choose a [different approach to Javascript, with TypeScript](http://blog.webnextconf.eu/2015/09/16/10-days-to-the-conference-typescript-giorgetti/), or a [different approach to learning a new language](http://blog.webnextconf.eu/2015/09/21/05-days-to-the-conference-codecooking-rui/).
+
+### Q: Tell us a bit more about your session
+**A**: My session is about "Reactive Extensions" (Rx); speaking about Rx is really exciting because in our work it's rare to find something really new, but Rx, with its Observable pattern, somehow did it.
 
 It showed us something that even the venerable [Gang of Four](http://c2.com/cgi/wiki?GangOfFour) in their "Design Pattern" book missed, that [Iterator](https://en.wikipedia.org/wiki/Iterator_pattern) and [Observer](https://en.wikipedia.org/wiki/Observer_pattern) patterns were really different views of the same thing, quite interesting stuff.
 
@@ -20,9 +36,9 @@ If i've still space I would like to share the same tutorial reference i'll add a
  * **[RxJSKoans](https://github.com/Reactive-Extensions/RxJSKoans)**: GitHub repository full of small exercises of increasing difficulty using RxJS.
  * **[Rx Workshop](https://channel9.msdn.com/Series/Rx-Workshop)**: A set of videos teaching you Rx.NET directly from Rx team members.
 
-* *Tell us a bit more about yourself*
 
-First of all i'm a software developer, even if after 10 years of experience, as you can imagine, my role in the company changed quite a lot.
+### Q: Tell us a bit more about yourself
+**A**: First of all i'm a software developer, even if after 10 years of experience, as you can imagine, my role in the company changed quite a lot.
 
 I'm a [Cluster Reply](http://www.reply.eu/en/) employee and my current title is something like *"Solution Architect"* and *"Technical Advisor"*, and what it really means to me is just being a software developer with added responsability such as teaching and introducing colleagues to new technologies, patterns and architectures and, obviously, be blamed when something don't work out as intended.
 
@@ -33,3 +49,7 @@ To quote Michael Nygard "Release It!" wonderful book:
 > I haven't seen a "pure-website" project since about 1996.
 > If your projects are like mine, they have probably been
 > enterprise integration projects that happen to have an HTML-based front end.
+
+
+## Register to the Web European Conference
+If you want to attend this session but haven't registered to the [Web European Conference](http://webnextconf.eu/) yet, you still have some time: [go register](http://webnextconf.eventbrite.com/) before all 900 tickets are gone.
