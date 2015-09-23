@@ -26,10 +26,4 @@ And we this post we concluded our overview of all sessions of the conference. Af
 
 
 ### Q: Tell us a bit more about yourself
-**A**:
-
-
-------
-PostTitle(D-1 - Featured session is Why Middleware? by @chr_horsdal)
-Link(http://blog.webnextconf.eu/2015/09/25/01-day-to-the-conference-middleware-horsdal/)
-Scheduled(2015-09-25T15:00+02:00)
+**A**: Christian works as consultant, trainer and coder. He helps clients grow and deliver awesome solutions. All at the same time. When he isn’t coding he just might enjoy a good single malt or a ride around the country side on his road bike.
